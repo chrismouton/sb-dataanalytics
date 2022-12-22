@@ -1,0 +1,12 @@
+bin/*
+.ipynb_checkpoints/
+compiler_compat/*
+conda-meta/*
+include/*
+lib/*
+licensing/*
+man/*
+share/*
+ssl/*
+x86_64-conda-linux-gnu/*
+x86_64-conda_cos7-linux-gnu/*
