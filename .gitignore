@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+.vscode/
 bin/*
 compiler_compat/*
 conda-meta/*
